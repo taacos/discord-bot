@@ -1,0 +1,8 @@
+{
+“name”: “epic-bot”,
+“version”: “1.0.0”,
+“description”: “YAY”,
+“main”: “bot.js”,
+“author”: “Your Name”,
+“dependencies”: {}
+}
